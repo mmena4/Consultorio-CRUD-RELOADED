@@ -1,6 +1,6 @@
 # MVC CRUD
 
-CRUD exercise made in PHP Vanilla as part of Factoríaf5 bootcamp.
+'Consultorio-CRUD-RELOADED' exercise is the update of the project 'Consultorio-CRUD' adding an API in Ajax (Api Rest).
 
 
 ## Requiered
